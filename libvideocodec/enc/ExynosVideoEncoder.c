@@ -47,7 +47,7 @@
 #endif
 #endif
 
-#include <linux/videodev2_exynos_media.h>
+#include <videodev2_exynos_media.h>
 #ifdef USE_EXYNOS_MEDIA_EXT
 #include <linux/videodev2_exynos_media_ext.h>
 #endif

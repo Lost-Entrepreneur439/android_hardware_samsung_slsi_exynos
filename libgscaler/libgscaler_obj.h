@@ -36,7 +36,7 @@ extern "C" {
 #include <stdlib.h>
 #include <time.h>
 #include <system/graphics.h>
-#include <linux/videodev2_exynos_media.h>
+#include <videodev2_exynos_media.h>
 #include "exynos_gscaler.h"
 
 #include "exynos_format.h"
